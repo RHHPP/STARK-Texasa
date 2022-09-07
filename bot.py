@@ -10,7 +10,7 @@ import json, requests, os, shlex, asyncio, uuid, shutil
   
  START_BUTTONS=[ 
      [ 
-         InlineKeyboardButton('السورس', url='https://github.com/STARK-Texasa/libs'), 
+         InlineKeyboardButton('السورس', url='https://github.com/RHHPP/STARK-Texasa'), 
          InlineKeyboardButton('قناة البوتات', url='https://t.me/L6L6P'), 
      ],] 
   
